@@ -4,6 +4,7 @@
 #include <GL/freeglut.h>
 #include <algorithm>
 
+#include <math.h>
 // 3D point/vector class
 class Point {
 public:
